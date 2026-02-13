@@ -1,0 +1,36 @@
+1) What is phishing?
+
+Phishing is a social engineering attack where an attacker impersonates a trusted entity to trick users into revealing sensitive information like credentials, credit card details, or OTPs. 
+It is commonly delivered through email but can also occur via SMS or phone calls.
+
+2) How do you identify a phishing email?
+
+Check for suspicious sender addresses, mismatched URLs, urgent or threatening language, generic greetings, unexpected attachments, and spelling errors. 
+Also hover over links to verify the actual destination before clicking.
+
+3) What is email spoofing?
+
+Email spoofing is when an attacker forges the sender’s email address to make it appear as if the email came from a legitimate source. It is commonly used in phishing attacks to gain the victim’s trust.
+
+4) Why are phishing emails dangerous?
+
+Phishing emails can lead to credential theft, financial fraud, malware infections, and data breaches. 
+They are one of the most common initial attack vectors in cyber incidents.
+
+5) How can you verify the sender’s authenticity?
+
+I verify the full email address, check the domain spelling, review SPF, DKIM, and DMARC results in the email header, and confirm through official communication channels if necessary.
+
+6) What tools can analyze email headers?
+
+Tools like Google Message Header Analyzer, MXToolbox, email client header viewers, Wireshark, and SIEM solutions like Splunk can be used to analyze email headers and trace the sending path.
+
+7) What actions should be taken for suspected phishing emails?
+
+Do not click links or download attachments. 
+Report the email to the SOC or IT team. 
+In a SOC role, analyze headers, check domain/IP reputation, sandbox attachments, block malicious sources, and reset compromised accounts if needed.
+
+8) How do attackers use social engineering in phishing?
+
+Attackers exploit human psychology using urgency, fear, authority, curiosity, or greed to manipulate victims into taking actions like clicking malicious links or sharing sensitive information.
