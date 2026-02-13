@@ -1,6 +1,7 @@
  TASK-2 PHISHING EMAIL ANALYSIS
 
  Objective
+ 
  To identify phishing emails.
  _______________________________________
  This repository contains:
@@ -31,4 +32,5 @@ Phishing Indicators Found
 
 _______________________________________
 Conclusion
+
 The email contains multiple phishing indicators and is a credential harvesting attempt.
