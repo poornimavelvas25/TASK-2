@@ -1,0 +1,23 @@
+Return-Path: <no-reply@micr0soft-security.com>
+Received: from unknown (185.243.217.22)
+From: Microsoft Security Team <no-reply@micr0soft-security.com>
+Reply-To: verification@office365-alert.net
+Subject: Urgent: Unusual Sign-In Activity Detected
+
+Dear User,
+
+We detected an unusual sign-in attempt on your Microsoft 365 account from a new device.
+
+Location: Moscow, Russia
+IP Address: 185.243.217.22
+
+If this was not you, your account may be compromised.
+
+To secure your account immediately, please verify your identity below:
+
+https://microsoft365-account-verification.secure-login-update.ru
+
+Failure to verify within 24 hours will result in temporary account suspension.
+
+Thank you,
+Microsoft Account Protection Team
